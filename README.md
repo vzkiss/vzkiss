@@ -1,35 +1,27 @@
 ## Hi 👋🏻 I'm Zoltan
 
-I’m a frontend-focused full-stack developer who ships clean, reliable React/Next.js applications.
-I specialize in dashboards, UI components, forms, data views, and end-to-end integrations.
+I help teams build and ship modern JavaScript applications for enterprise environments — dashboards, SaaS tools, workflow interfaces such as budget views, reporting tables, scheduling, and integration-heavy internal platforms. My work emphasizes clarity, maintainability, and reliable end-to-end API integrations across frontend and backend. Async, autonomous, remote-first work style.
 
-🌟 Professional Experience
-
-7+ years as a long-term contractor building production features for a Nordic fintech company shipping enterprise asset management SaaS.
-Worked on complex UIs (budget views, reporting tables, scheduling interfaces) and backend integrations (REST APIs, sync workflows).
-Async, autonomous, remote-first work style.
-
-*Tech: React, TypeScript, Next.js, Node.js, REST APIs, MongoDB, RabbitMQ, Azure Auth, .NET, C#, ABP, Jenkins, Docker, M-Files API*
+*<ins>Tech:</ins> React, Next.js, TypeScript, Node.js, Tailwind CSS, REST APIs, MongoDB, RabbitMQ, Azure Auth, .NET, C#, ABP, Jenkins, Docker, M-Files API*
 
 ## 🤖 Selected Projects
 
+Below are selected personal projects and tools that represent my UI, architecture, and product-building approach.
+
 #### [Flow Theory Library](https://library.flowtheoryvisuals.com/) - **Video Platform** <br>
 
-  Netflix style video sharing platform with Mux integration for sharing and monetizing social dance videos.
-
-  *Tech: React, Next.js, MongoDB, Mailgun, Mux Video API* <br>
+  Netflix style video sharing platform with Mux integration for sharing and monetizing social dance videos.<br>
+  *<ins>Tech:</ins> React, Next.js, MongoDB, Mailgun, Mux Video API* <br>
   
 #### [Flow Studio](https://studio.flowtheoryvisuals.com/) - **Event PWA**<br>
 
-Progressive web app for a social dance event, used live at VLX 2024 [link](https://www.instagram.com/vietnamlatinxperience/), Vietnam.
-
-*Tech: React, Next.js, PayloadCMS, PostgreSQL, Supabase, Drizzle* <br>
+Progressive web app for a social dance event, used live at [VLX 2024](https://www.instagram.com/vietnamlatinxperience/), Vietnam.<br>
+*<ins>Tech:</ins> React, Next.js, PayloadCMS, PostgreSQL, Supabase, Drizzle* <br>
 
 #### [Ginkgo Garden](https://ginkgogarden.hu/) - **UI/UX Design & Development** <br>
 
-UI design + frontend dev for a local gardening business in Budapest.
-
-*Tech: React, Sass, GatsbyJS, Sanity.io, GraphQL, Netlify*
+UI design + frontend dev for a local gardening business in Budapest. <br>
+*<ins>Tech:</ins> React, Sass, GatsbyJS, Sanity.io, GraphQL, Netlify*
 
 
 <!--

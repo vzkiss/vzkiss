@@ -16,7 +16,7 @@ Below are selected personal projects and tools that represent my UI, architectur
 #### [Flow Studio](https://studio.flowtheoryvisuals.com/) - **Event PWA**<br>
 
 Progressive web app for a social dance event, used live at [VLX 2024](https://www.instagram.com/vietnamlatinxperience/), Vietnam.<br>
-*<ins>Tech:</ins> React, Next.js, PayloadCMS, PostgreSQL, Supabase, Drizzle* <br>
+*<ins>Tech:</ins> React, Next.js, PayloadCMS, PostgreSQL, Supabase, Drizzle, Posthog, Sentry* <br>
 
 #### [Ginkgo Garden](https://ginkgogarden.hu/) - **UI/UX Design & Development** <br>
 

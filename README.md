@@ -1,6 +1,6 @@
 ## Hi 👋🏻 I'm Zoltan
 
-I help teams build and ship modern JavaScript applications for enterprise environments — dashboards, SaaS tools, workflow interfaces such as budget views, reporting tables, scheduling, and integration-heavy internal platforms. My work emphasizes clarity, maintainability, and reliable end-to-end API integrations across frontend and backend. Async, autonomous, remote-first work style.
+I deliver modern JavaScript applications — real-time dashboards, enterprise SaaS, workflow tools — across the full stack. My work emphasizes clarity, and reliable end-to-end API integrations across frontend and backend. Async, autonomous, remote-first work style.
 
 *<ins>Core Tech:</ins> React, Next.js, TypeScript, Node.js, MongoDB, PostgreSQL, Tailwind CSS, shadcn/ui*
 

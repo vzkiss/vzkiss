@@ -2,15 +2,15 @@
 
 I help teams build and ship modern JavaScript applications for enterprise environments — dashboards, SaaS tools, workflow interfaces such as budget views, reporting tables, scheduling, and integration-heavy internal platforms. My work emphasizes clarity, maintainability, and reliable end-to-end API integrations across frontend and backend. Async, autonomous, remote-first work style.
 
-*<ins>Tech:</ins> React, Next.js, TypeScript, Node.js, Tailwind CSS, REST APIs, MongoDB, RabbitMQ, Azure Auth, .NET, C#, ABP, Jenkins, Docker, M-Files API*
+*<ins>Core Tech:</ins> React, Next.js, TypeScript, Node.js, MongoDB, PostgreSQL, Tailwind CSS, shadcn/ui*
 
 ## 🤖 Selected Projects
 
-Below are selected personal projects and tools that represent my UI, architecture, and product-building approach.
+Below are selected independent projects that represent my UI, architecture, and product approach.
 
 #### [Flow Theory Library](https://library.flowtheoryvisuals.com/) - **Video Platform** <br>
 
-  Netflix style video sharing platform with Mux integration for sharing and monetizing social dance videos.<br>
+  Netflix style video sharing platform with Mux integration for sharing and monetizing raw videos.<br>
   *<ins>Tech:</ins> React, Next.js, MongoDB, Mailgun, Mux Video API* <br>
   
 #### [Flow Studio](https://studio.flowtheoryvisuals.com/) - **Event PWA**<br>
@@ -18,10 +18,12 @@ Below are selected personal projects and tools that represent my UI, architectur
 Progressive web app for a social dance event, used live at [VLX 2024](https://www.instagram.com/vietnamlatinxperience/), Vietnam.<br>
 *<ins>Tech:</ins> React, Next.js, PayloadCMS, PostgreSQL, Supabase, Drizzle, Posthog, Sentry* <br>
 
+<!--
 #### [Ginkgo Garden](https://ginkgogarden.hu/) - **UI/UX Design & Development** <br>
 
 UI design + frontend dev for a local gardening business in Budapest. <br>
 *<ins>Tech:</ins> React, Sass, GatsbyJS, Sanity.io, GraphQL, Netlify*
+-->
 
 
 <!--

@@ -4,7 +4,7 @@ I deliver modern JavaScript applications — real-time dashboards, enterprise Sa
 
 *<ins>Core Tech:</ins> React, Next.js, TypeScript, Node.js, MongoDB, PostgreSQL, Tailwind CSS, shadcn/ui*
 
-## 🤖 Selected Projects
+## 🤖 Independent Projects
 
 Below are selected independent projects that represent my UI, architecture, and product approach.
 

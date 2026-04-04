@@ -4,7 +4,9 @@ I help teams turn slow, complex applications into fast, reliable, and easy-to-us
 
 Reach out on LinkedIn or on [vzkiss.com](https://vzkiss.com) if you need my help 😉
 
-## 🤖 Independent Projects
+---
+
+### 🤖 Independent Projects
 
 Below are selected independent projects that represent my UI, architecture, and product approach.
 
